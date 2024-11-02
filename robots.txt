@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://emedeula.github.io/HpK/sitemap_index.txt
+Sitemap: https://emedeula.github.io/ZgW/sitemap_index.txt
+Sitemap: https://emedeula.github.io/cOb/sitemap_index.txt
+Sitemap: https://emedeula.github.io/oSZ/sitemap_index.txt
